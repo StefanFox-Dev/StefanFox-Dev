@@ -4,7 +4,7 @@
 ### Computer Science Student • Competitive Programmer • Backend & Systems Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-StefanFox--Dev-181717?style=for-the-badge&logo=github)](https://github.com/StefanFox-Dev)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/stefanfox)
+[![Telegram](https://img.shields.io/badge/Telegram-@stefanfox__dev-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/stefanfox_dev)
 [![Location](https://img.shields.io/badge/Location-Chernivtsi%2C%20Ukraine-005BBB?style=for-the-badge&logo=google-maps&logoColor=white)](https://en.wikipedia.org/wiki/Chernivtsi)
 
 <br/>
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education**: Computer Science undergraduate at **Yuriy Fedkovych Chernivtsi National University** (*Faculty of Mathematics and Informatics*).
+- 🎓 **Education**: Computer Science student at **Yuriy Fedkovych Chernivtsi National University (ЧНУ)** (*Faculty of Mathematics and Informatics*).
 - 💡 **Interests**: Algorithmic problem solving, low-level network protocols (TCP/UDP/WebSocket/RakNet), concurrent architectures, and backend systems.
 - 🏆 **Competitive Programming**: Active participant in national & regional programming competitions (ICPC, LNU Open, regional Olympiads).
 - 🤝 **Community**: Mentor & co-organizer in the **Bukovyna Informatics Olympiad Studies (BIOS)** community, helping train school students for programming olympiads.
