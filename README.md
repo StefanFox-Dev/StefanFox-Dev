@@ -122,9 +122,11 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StefanFox-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="StefanFox-Dev's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=StefanFox-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="StefanFox-Dev's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanFox-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=StefanFox-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=StefanFox-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
