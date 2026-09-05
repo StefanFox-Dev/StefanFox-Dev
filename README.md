@@ -24,11 +24,12 @@
 
 ### 🛠️ Tech Stack & Skills
 
+**Languages:**
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -36,12 +37,28 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
+**Backend, Systems & Architecture:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Concurrency%20%26%20Multithreading-Virtual%20Threads-00599C?style=flat-square&logo=java&logoColor=white" alt="Concurrency" />
   <img src="https://img.shields.io/badge/Algorithms%20%26%20Data%20Structures-FF6F00?style=flat-square&logo=codeforces&logoColor=white" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/WebSockets%20%26%20UDP-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-4CAF50?style=flat-square&logo=apachekafka&logoColor=white" alt="Event-Driven" />
+  <img src="https://img.shields.io/badge/WebSockets%20%26%20RakNet%20UDP-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Networking" />
+</p>
+
+**Databases, Caching & Performance:**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/HikariCP-Connection%20Pool-E65100?style=flat-square&logo=apache&logoColor=white" alt="HikariCP" />
+  <img src="https://img.shields.io/badge/Caffeine%20Cache-High%20Performance-6F4E37?style=flat-square&logo=coffeescript&logoColor=white" alt="Caffeine Cache" />
+</p>
+
+**Build Tools & Environment:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Gradle-Kotlin%20DSL-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux%20%2F%20Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
