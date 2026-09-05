@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Taras Yeremitsa 👋
-### Computer Science Student • Competitive Programmer • Backend & Systems Enthusiast
+### Computer Science Student • Competitive Programmer • Backend & Systems Enthusiast • Dev servers Minecraft Bedrock
 
 [![GitHub](https://img.shields.io/badge/GitHub-StefanFox--Dev-181717?style=for-the-badge&logo=github)](https://github.com/StefanFox-Dev)
 [![Telegram](https://img.shields.io/badge/Telegram-@stefanfox__dev-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/stefanfox_dev)
